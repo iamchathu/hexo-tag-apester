@@ -16,6 +16,12 @@ In your Hexo project root.
 
 # Including JS
 
+Include the Apester JS SDK on your page once before the `</head>` tag
+
+```html
+<script type="text/javascript" src="//static.apester.com/js/sdk/v1.1/apester-sdk.min.js"></script>
+```
+
 # Usage
 
 The full tag format is as follows:
