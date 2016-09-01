@@ -21,7 +21,7 @@ In your Hexo project root.
 The full tag format is as follows:
 
 ```
-{% interaction interaction_id %}
+{% apester interaction_id %}
 ```
 
 
