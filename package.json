@@ -1,0 +1,24 @@
+{
+  "name": "hexo-tag-apester",
+  "version": "1.0.0",
+  "description": "Apester interactive tag plugin to include in Hexo page/post",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iamchathu/hexo-tag-apester.git"
+  },
+  "keywords": [
+    "hexo",
+    "hexo-tag",
+    "apester"
+  ],
+  "author": "Chathu Vishwajith (iam@chathu.me)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/iamchathu/hexo-tag-apester/issues"
+  },
+  "homepage": "https://github.com/iamchathu/hexo-tag-apester#readme"
+}
