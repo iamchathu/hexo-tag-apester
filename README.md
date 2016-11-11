@@ -1,8 +1,11 @@
 # hexo-tag-apester
+
+[![npm version](https://badge.fury.io/js/hexo-tag-apester.svg)](https://badge.fury.io/js/hexo-tag-apester)
+[![Known Vulnerabilities](https://snyk.io/test/github/iamchathu/hexo-tag-apester/2c5aa1b11db032b48c884dea62e8375dc56d39fb/badge.svg)](https://snyk.io/test/github/iamchathu/hexo-tag-apester/2c5aa1b11db032b48c884dea62e8375dc56d39fb)
+
 Apester interactive tag plugin to include in Hexo page/post
 
 # About
-[![npm version](https://badge.fury.io/js/hexo-tag-apester.svg)](https://badge.fury.io/js/hexo-tag-apester)
 
 This is a [Hexo](https://hexo.io) tag plugin for including a [Apester](http://apester.com) widget into your pages/posts. Examples of what they can look like are below:
 
