@@ -2,6 +2,7 @@
 
 [![npm version](https://badge.fury.io/js/hexo-tag-apester.svg)](https://badge.fury.io/js/hexo-tag-apester)
 [![Known Vulnerabilities](https://snyk.io/test/github/iamchathu/hexo-tag-apester/2c5aa1b11db032b48c884dea62e8375dc56d39fb/badge.svg)](https://snyk.io/test/github/iamchathu/hexo-tag-apester/2c5aa1b11db032b48c884dea62e8375dc56d39fb)
+[![NSP Status](https://nodesecurity.io/orgs/iamchathu/projects/43ee5bf5-886c-4a5c-a6f5-879773cca6b1/badge)](https://nodesecurity.io/orgs/iamchathu/projects/43ee5bf5-886c-4a5c-a6f5-879773cca6b1)
 
 Apester interactive tag plugin to include in Hexo page/post
 
@@ -32,6 +33,9 @@ The full tag format is as follows:
 ```
 {% apester interaction_id %}
 ```
+
+# Blog Articles explaining the tweetable quote plugin
+- [Adding tweetable quote to hexo blog](https://chathu.me/2017/08/24/adding-tweetable-quote-to-hexo-blog/) - Adding tweetable quote to hexo blog.
 
 
 # Example in the Wild
